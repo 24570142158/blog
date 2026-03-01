@@ -32,6 +32,9 @@ Minecraft Java 本身是由 Java代码 编写的，计算机是无法理解 Java
 > 或许有些面板服预装了 你所需的Java版本，可以跳过此理论
 
 市面上有两种主流Java
-- Oracle JDK
-- Graalvm JDK
+- Oracle JDK (通用型) [下载](https://www.oracle.com/cn/java/technologies/downloads/archive/)
+- Graalvm JDK (对Minecraft优化) [下载](https://www.graalvm.org/downloads/)
+
+> [!WARNING]
+> 很遗憾 Graamlvm JDK 只有 17、21和25版本
 
