@@ -40,6 +40,11 @@ Minecraft Java 本身是由 Java代码 编写的，计算机是无法理解 Java
 
 Oracle JDK：
 <img src="https://free.picui.cn/free/2026/03/01/69a3e48be3052.jpg">
+<img src="https://free.picui.cn/free/2026/03/01/69a3e9f3930c5.jpg">
+<img src="https://free.picui.cn/free/2026/03/01/69a3e9eebcc25.jpg">
 
 Graamlvm JDK：
 <img src="https://free.picui.cn/free/2026/03/01/69a3e6e39c65b.jpg">
+
+下载的是一个压缩文件
+各个系统安装见
