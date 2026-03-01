@@ -31,3 +31,7 @@ Minecraft Java 本身是由 Java代码 编写的，计算机是无法理解 Java
 > [!TIP]
 > 或许有些面板服预装了 你所需的Java版本，可以跳过此理论
 
+市面上有两种主流Java
+- Oracle JDK
+- Graalvm JDK
+
