@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ElevenShoe的博客</title><link>https://blog.elevenshoe.top</link><description>遇到文章问题请联系 邮箱 noreply@elevenshoe.top , QQ 2457014215</description><copyright>ElevenShoe的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/139684175?u=645149100889341d4cc65ba83fd5b83bfb577af1&amp;v=4&amp;size=64</url><title>avatar</title><link>https://blog.elevenshoe.top</link></image><lastBuildDate>Sun, 01 Mar 2026 07:32:48 +0000</lastBuildDate><managingEditor>ElevenShoe的博客</managingEditor><ttl>60</ttl><webMaster>ElevenShoe的博客</webMaster><item><title>mc开服理论</title><link>https://blog.elevenshoe.top/post/mc-kai-fu-li-lun.html</link><description>&gt; [!TIP]
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ElevenShoe的博客</title><link>https://blog.elevenshoe.top</link><description>遇到文章问题请联系 邮箱 noreply@elevenshoe.top , QQ 2457014215</description><copyright>ElevenShoe的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/139684175?u=645149100889341d4cc65ba83fd5b83bfb577af1&amp;v=4&amp;size=64</url><title>avatar</title><link>https://blog.elevenshoe.top</link></image><lastBuildDate>Sat, 07 Mar 2026 06:06:01 +0000</lastBuildDate><managingEditor>ElevenShoe的博客</managingEditor><ttl>60</ttl><webMaster>ElevenShoe的博客</webMaster><item><title>Minecraft套CDN</title><link>https://blog.elevenshoe.top/post/Minecraft-tao-CDN.html</link><description>&gt; [!WARNING]
+&gt; 此教程为 Minecraft如何防御DDos，不是加速
+&gt; 任何四层转发都会牺牲延迟，请注意辨别
+
+# 成果
+先说成果
+
+源服务器延迟在60ms左右，套cdn后延迟在150ms
+&gt; [!NOTE]
+&gt; 如果是生存服务器，180ms内是能玩的
+
+DDos防御为1 Tbps, 秒级响应
+
+且套上CDN后，可以使用25565的端口游玩
+
+# 购买CDN
+推荐云维立方，亚太CDN。</description><guid isPermaLink="true">https://blog.elevenshoe.top/post/Minecraft-tao-CDN.html</guid><pubDate>Sat, 07 Mar 2026 06:05:37 +0000</pubDate></item><item><title>mc开服理论</title><link>https://blog.elevenshoe.top/post/mc-kai-fu-li-lun.html</link><description>&gt; [!TIP]
 &gt; 此文章为萌新腐竹准备的理论基础，能在一定程度上帮助但不限于 开服报错自查、自定义开服、不依赖面板镜像开服
 
 # Java
